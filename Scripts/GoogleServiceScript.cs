@@ -92,7 +92,7 @@ public class GoogleServiceScript : MonoBehaviour
         }
         else
         {
-            Debug.Log("(Lollygagger) Sign-in failed...");
+            Debug.Log("(AnimeQuiz Battle Arena: OnePunchMan) Sign-in failed...");
 
             // Show failure message
             //signInButtonText.text = "Sign in";
